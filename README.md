@@ -1,8 +1,11 @@
 # From Atomic to Composite
 
-Code and data for the paper **From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning**.
+Code and data for the paper 
 
-[**ArXiv Paper**](https://arxiv.org/pdf/2512.01970)
+[**From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning**](https://arxiv.org/pdf/2512.01970).
+
+Here is the main experiment settings and findings of our paper.
+![Main Figure](figures/multi-gen.pdf)
 
 We release the code to generate synthetic human biographies with a knowledge graph.
 
