@@ -1,0 +1,5761 @@
+[
+    {
+        "relation_path": [
+            "mentoring",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "classmate",
+            "influence",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "parent",
+            "child",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "rival",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "rival",
+            "influence",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "boss",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "colleague",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "neighbor",
+            "mentoring",
+            "boss",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "spouse",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "sibling",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "boss_of",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "rival",
+            "spouse",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "best_friend",
+            "mentoring",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "boss_of",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "mentored_by",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "colleague",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "classmate",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "influence",
+            "mentored_by",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "rival",
+            "boss_of",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "sibling",
+            "neighbor",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "boss",
+            "sibling",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "roommate",
+            "mentoring",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "sibling",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "colleague",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "influence",
+            "classmate",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "classmate",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "neighbor",
+            "boss_of",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "boss_of",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "rival",
+            "mentoring",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "rival",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "classmate",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "rival",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "influence",
+            "spouse",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "best_friend",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "mentoring",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "rival",
+            "influenced_by",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "influence",
+            "colleague",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "boss_of",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "influenced_by",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "influenced_by",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "boss_of",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "spouse",
+            "child",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "roommate",
+            "colleague",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "sibling",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "boss_of",
+            "roommate",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "parent",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "sibling",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "classmate",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "mentored_by",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "roommate",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "neighbor",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "spouse",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "roommate",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "boss",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "mentored_by",
+            "rival",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "best_friend",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "influenced_by",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "boss_of",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "influenced_by",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "rival",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "influence",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "colleague",
+            "boss_of",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "classmate",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "child",
+            "mentoring",
+            "colleague",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "roommate",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "influenced_by",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "boss_of",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "influenced_by",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "spouse",
+            "boss_of",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "rival",
+            "neighbor",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "boss_of",
+            "rival",
+            "influence",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "spouse",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "influence",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "mentoring",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "best_friend",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "child",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "rival",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "colleague",
+            "influenced_by",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "roommate",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "spouse",
+            "influence",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "best_friend",
+            "rival",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "child",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "mentoring",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "mentoring",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "colleague",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "boss_of",
+            "child",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "spouse",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "neighbor",
+            "spouse",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "rival",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "influenced_by",
+            "mentored_by",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "mentoring",
+            "parent",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "roommate",
+            "influenced_by",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "rival",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "influence",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "best_friend",
+            "neighbor",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "colleague",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "neighbor",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "spouse",
+            "influence",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "colleague",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "parent",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "neighbor",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "influence",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "influenced_by",
+            "mentored_by",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "mentored_by",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "child",
+            "influence",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "mentoring",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "mentored_by",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "parent",
+            "boss_of",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "classmate",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "spouse",
+            "rival",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "rival",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "boss_of",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "influence",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "child",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "best_friend",
+            "sibling",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "rival",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "boss_of",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "influence",
+            "mentoring",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "mentoring",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "neighbor",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "rival",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "rival",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "mentored_by",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "classmate",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "child",
+            "rival",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "mentored_by",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "spouse",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "boss",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "boss",
+            "classmate",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "mentored_by",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "boss",
+            "influenced_by",
+            "mentoring",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "colleague",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "sibling",
+            "parent",
+            "neighbor",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "mentored_by",
+            "colleague",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "best_friend",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "boss_of",
+            "colleague",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "neighbor",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "rival",
+            "influence",
+            "boss",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "neighbor",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "spouse",
+            "child",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "mentored_by",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "boss",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "colleague",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "sibling",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "mentored_by",
+            "boss",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "child",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "boss_of",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "boss",
+            "influence",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "influence",
+            "roommate",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "influenced_by",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "influenced_by",
+            "roommate",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "sibling",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "roommate",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "influence",
+            "sibling",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "influence",
+            "spouse",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "colleague",
+            "roommate",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "best_friend",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "neighbor",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "mentored_by",
+            "mentoring",
+            "child",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "best_friend",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "influence",
+            "sibling",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "parent",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "neighbor",
+            "roommate",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "mentored_by",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "boss_of",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "neighbor",
+            "roommate",
+            "parent",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "best_friend",
+            "roommate",
+            "mentored_by",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "parent",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "parent",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "rival",
+            "colleague",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "best_friend",
+            "colleague",
+            "roommate",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "mentoring",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "sibling",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "classmate",
+            "influenced_by",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "sibling",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "rival",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "mentoring",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "mentoring",
+            "sibling",
+            "boss",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "parent",
+            "influenced_by",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "parent",
+            "sibling",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "best_friend",
+            "boss",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "boss",
+            "parent",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "parent",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "roommate",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "best_friend",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "mentoring",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "rival",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "parent",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "sibling",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "influenced_by",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "sibling",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "spouse",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "colleague",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "mentoring",
+            "best_friend",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "mentored_by",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "classmate",
+            "best_friend",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "classmate",
+            "roommate",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "boss",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "parent",
+            "rival",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "rival",
+            "best_friend",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "best_friend",
+            "neighbor",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "colleague",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "mentoring",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "rival",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "mentoring",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "mentoring",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "boss_of",
+            "boss",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "colleague",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "best_friend",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "influence",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "boss_of",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "classmate",
+            "rival",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "colleague",
+            "mentored_by",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "classmate",
+            "child",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "parent",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "roommate",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "influenced_by",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "boss",
+            "sibling",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "parent",
+            "classmate",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "boss",
+            "boss_of",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "neighbor",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "boss",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "influenced_by",
+            "classmate",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "spouse",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "mentored_by",
+            "rival",
+            "roommate",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "mentored_by",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "roommate",
+            "influenced_by",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "influenced_by",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "mentored_by",
+            "parent",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "boss_of",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "parent",
+            "roommate",
+            "colleague",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "mentoring",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "spouse",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "mentored_by",
+            "rival",
+            "best_friend",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "child",
+            "colleague",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "influence",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "neighbor",
+            "rival",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "roommate",
+            "sibling",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "rival",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "roommate",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "mentored_by",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "child",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "parent",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "influence",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "mentoring",
+            "sibling",
+            "influence",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "classmate",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "sibling",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "mentored_by",
+            "boss_of",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "neighbor",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "classmate",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "roommate",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "spouse",
+            "neighbor",
+            "best_friend",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "boss",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "child",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "parent",
+            "rival",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "mentoring",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "rival",
+            "sibling",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "mentored_by",
+            "rival",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "neighbor",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "neighbor",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "mentored_by",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "spouse",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "neighbor",
+            "parent",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "spouse",
+            "parent",
+            "boss_of",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "best_friend",
+            "sibling",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "sibling",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "influence",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "roommate",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "rival",
+            "classmate",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "neighbor",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "classmate",
+            "best_friend",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "spouse",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "influenced_by",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "best_friend",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "mentored_by",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "rival",
+            "boss",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "influence",
+            "rival",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "neighbor",
+            "best_friend",
+            "spouse",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "classmate",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "boss",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "neighbor",
+            "influence",
+            "child",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "mentored_by",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "best_friend",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "spouse",
+            "boss",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "roommate",
+            "parent",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "mentoring",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "influence",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "mentored_by",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "parent",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "boss_of",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "sibling",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "neighbor",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "best_friend",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "parent",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "boss_of",
+            "roommate",
+            "rival",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "rival",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "parent",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "neighbor",
+            "spouse",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "boss_of",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "colleague",
+            "rival",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "best_friend",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "colleague",
+            "mentoring",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "sibling",
+            "mentoring",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "rival",
+            "child",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "boss",
+            "spouse",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "rival",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "classmate",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "child",
+            "rival",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "roommate",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "influenced_by",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "spouse",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "classmate",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "spouse",
+            "mentored_by",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "influence",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "mentoring",
+            "sibling",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "rival",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "roommate",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "neighbor",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "best_friend",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "spouse",
+            "classmate",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "influence",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "influence",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "roommate",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "spouse",
+            "influenced_by",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "best_friend",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "classmate",
+            "influence",
+            "parent",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "parent",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "parent",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "best_friend",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "boss",
+            "spouse",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "roommate",
+            "mentored_by",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "parent",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "boss",
+            "classmate",
+            "colleague",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "boss_of",
+            "boss",
+            "parent",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "boss_of",
+            "parent",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "colleague",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "neighbor",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "child",
+            "boss_of",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "influenced_by",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "rival",
+            "boss",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "boss_of",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "roommate",
+            "best_friend",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "rival",
+            "sibling",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "boss_of",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "roommate",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "best_friend",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "boss",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "neighbor",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "boss",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "classmate",
+            "roommate",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "influence",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "sibling",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "boss",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "boss",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "boss_of",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "child",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "boss_of",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "roommate",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "roommate",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "colleague",
+            "parent",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "influenced_by",
+            "parent",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "parent",
+            "mentored_by",
+            "rival",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "classmate",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "roommate",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "spouse",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "neighbor",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "influence",
+            "spouse",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "sibling",
+            "influenced_by",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "mentoring",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "boss",
+            "roommate",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "colleague",
+            "best_friend",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "mentored_by",
+            "influence",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "rival",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "mentoring",
+            "best_friend",
+            "sibling",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "rival",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "boss",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "sibling",
+            "colleague",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "influence",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "best_friend",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "spouse",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "roommate",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "influence",
+            "neighbor",
+            "classmate",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "influenced_by",
+            "roommate",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "roommate",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "mentored_by",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "classmate",
+            "mentoring",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "sibling",
+            "colleague",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "classmate",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "mentored_by",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "classmate",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "roommate",
+            "sibling",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "boss_of",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "neighbor",
+            "child",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "boss_of",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "parent",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "mentored_by",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "parent",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "neighbor",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "rival",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "influenced_by",
+            "mentoring",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "classmate",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "best_friend",
+            "rival",
+            "influenced_by",
+            "child"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "child",
+            "mentoring",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "mentoring",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "spouse",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "boss",
+            "influence",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "mentoring",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "influence",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "best_friend",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "classmate",
+            "child",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "boss",
+            "neighbor",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "boss",
+            "sibling",
+            "mentoring",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "influence",
+            "classmate",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "neighbor",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "classmate",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "influenced_by",
+            "rival",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "parent",
+            "best_friend",
+            "influenced_by",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "boss",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "mentored_by",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "boss",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "classmate",
+            "influence"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "best_friend",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "boss",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "mentoring",
+            "classmate",
+            "philanthropy"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "classmate",
+            "child",
+            "rival",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "influenced_by",
+            "mentoring",
+            "rival",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "boss_of",
+            "mentored_by",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "mentored_by",
+            "influenced_by",
+            "sibling",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "boss_of",
+            "rival",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "mentored_by",
+            "roommate",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "roommate",
+            "mentored_by",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "spouse",
+            "child",
+            "service"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "rival",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "classmate",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "boss",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "mentoring",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "influence",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "boss",
+            "influence",
+            "mentoring",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "child",
+            "phone"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "mentored_by",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "sibling",
+            "boss",
+            "influenced_by",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "spouse",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "mentored_by",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "roommate",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "mentoring",
+            "influenced_by",
+            "roommate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "classmate",
+            "influence",
+            "parent",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "rival",
+            "boss_of",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "mentored_by",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "classmate",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "neighbor",
+            "boss",
+            "major"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "roommate",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "lived_in"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "child",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "sibling",
+            "spouse",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "boss_of",
+            "child",
+            "influence",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "boss",
+            "mentored_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "rival",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "colleague",
+            "influenced_by"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "best_friend",
+            "first_language"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "colleague",
+            "mentored_by",
+            "died_on"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "spouse",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "mentored_by",
+            "colleague",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "spouse"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "parent",
+            "rival"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "boss",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "influence",
+            "sibling",
+            "mentoring",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "influence",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "influenced_by",
+            "colleague"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "classmate"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "parent",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "boss_of",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "roommate",
+            "best_friend"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "mentoring",
+            "best_friend",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "boss_of",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "best_friend",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "rival",
+            "spouse",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "child",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "mentored_by",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "parent",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "spouse",
+            "sibling",
+            "pet"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influenced_by",
+            "sibling",
+            "child",
+            "leader_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "influence",
+            "known_for"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "worked_at"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "spouse",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "best_friend",
+            "neighbor",
+            "university"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "child",
+            "influence",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "neighbor",
+            "colleague",
+            "occupation"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "sibling",
+            "neighbor"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentored_by",
+            "rival",
+            "roommate",
+            "birth_place"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "parent",
+            "influenced_by",
+            "best_friend",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "classmate",
+            "awards"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "spouse",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "child",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss",
+            "mentored_by",
+            "roommate",
+            "influence",
+            "boss"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "roommate",
+            "nationality"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "sibling",
+            "boss_of",
+            "roommate",
+            "parent"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "boss_of",
+            "roommate",
+            "sibling"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "mentoring",
+            "influenced_by",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "influence",
+            "best_friend",
+            "mentoring"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "influenced_by",
+            "address"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "colleague",
+            "neighbor",
+            "classmate",
+            "roommate",
+            "boss_of"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "roommate",
+            "neighbor",
+            "sibling",
+            "spouse",
+            "wrote"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "parent",
+            "influenced_by",
+            "rival",
+            "hobby"
+        ],
+        "question_templates": []
+    },
+    {
+        "relation_path": [
+            "classmate",
+            "rival"
+        ],
+        "question_templates": []
+    }
+]
