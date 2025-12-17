@@ -1,4 +1,5 @@
 
+<div align="center">
 
 <h1>From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning</h1>
 
@@ -12,14 +13,13 @@
 </div>
 <p align="center">
 <a href="#overview">[Overview]</a>
-<a href="#quick-start">[Quick Start]</a>
 <a href="#file-descriptions">[File Discriptions]</a>
 <a href="#citation">[Citation]</a>
 </p>
 <hr>
 
 
-We release the code to generate synthetic human biographies with a knowledge graph. The training and testing data can be directly used by frameworks like [LLamafactory](https://github.com/hiyouga/LLaMA-Factory) or [VeRL](https://github.com/volcengine/verl). 
+This repo contains the raw data and code to generate synthetic human biographies with a knowledge graph. The training and testing data can be directly adapted to frameworks like [LLamafactory](https://github.com/hiyouga/LLaMA-Factory) or [VeRL](https://github.com/volcengine/verl). 
 
 
 ## Overview
