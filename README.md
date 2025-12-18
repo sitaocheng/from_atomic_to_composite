@@ -5,8 +5,8 @@
 
 <a href="https://arxiv.org/pdf/2512.01970">
   <img src="https://img.shields.io/badge/PAPER-ARXIV-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">
-</a><a href="https://huggingface.co/your-model">
-  <img src="https://img.shields.io/badge/DATASET%26MODEL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Dataset & Model">
+</a><a href="https://huggingface.co/datasets/sitao/From_atomic_to_composite">
+  <img src="https://img.shields.io/badge/DATASET-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Dataset">
 </a><a href="https://github.com/sitaocheng/DERL">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
 </a>
