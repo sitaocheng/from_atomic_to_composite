@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning</h1>
+<h1>Atomic Skills are the Prerequisite: When Reinforcement Learning Synthesizes Compositional Reasoning, and When It Only Amplifies</h1>
 
 <a href="https://arxiv.org/pdf/2512.01970">
   <img src="https://img.shields.io/badge/PAPER-ARXIV-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">
